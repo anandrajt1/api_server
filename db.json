@@ -1,0 +1,25 @@
+{
+    "users": [
+      {
+        "id": 1,
+        "name": "Varun",
+        "email": "varun@gmail.com",
+        "age": 18,
+        "premiumMember": true
+      },
+      {
+        "id": 2,
+        "name": "Lishad",
+        "email": "lishad@gmail.com",
+        "age": 35,
+        "premiumMember": true
+      },
+      {
+        "name": "Anand",
+        "email": "anand@gmail.com",
+        "age": 30,
+        "premiumMember": true,
+        "id": 3
+      }
+    ]
+  }
